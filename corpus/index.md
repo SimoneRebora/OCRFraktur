@@ -3,3 +3,5 @@
 gt-TSZ1 -> "Aus der Geschichte eines Regiments", Tiroler Soldaten-Zeitung, Nr. 194-196 (26.7.1916), S. 2-3
 
 gt-TSZ01 -> "Der Weg zu den Sternen", Tiroler Soldaten-Zeitung, Nr. 188-190 (8.7.1916), S. 9
+
+gt-TSZ03 -> "Kameraden arbeitet mit!",  Soldaten-Zeitung, Nr. 9, (6.8.1916), S. 3-4
