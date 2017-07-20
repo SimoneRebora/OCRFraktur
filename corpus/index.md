@@ -6,5 +6,4 @@ gt-TSZ01 -> "Der Weg zu den Sternen", Tiroler Soldaten-Zeitung, Nr. 188-190 (8.7
 
 gt-TSZ03 -> "Kameraden arbeitet mit!",  Soldaten-Zeitung, Nr. 9, (6.8.1916), S. 3-4
 
-gt-TSZ04 -> "Kameraden arbeitet mit!",  Soldaten-Zeitung, Nr. 9, (6.8.1916), S. 3-4
-####
+gt-TSZ04 -> "Bin ich ein Österreicher?", Soldaten-Zeitung, Nr. 11 (20.8.1916), S. 2
