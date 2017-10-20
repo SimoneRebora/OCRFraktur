@@ -2,4 +2,5 @@
 
 ##no errors in splitline
 
-010046.txt: spot in the image
+010046.bin.png: spot in the image
+010058.bin.png: slight error in segmentation
