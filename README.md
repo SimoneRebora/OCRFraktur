@@ -15,6 +15,6 @@ Training OCRopus software on Fraktur documents (early XX century, Austria)
 
 <b>Results:</b>
 <p align="center">
-  <img src="https://github.com/SimoneRebora/OCRFraktur/tree/master/Images/Learning_Curve.png" width="350" title="Learning Curve">
+  <img src="https://github.com/SimoneRebora/OCRFraktur/tree/master/Images/Learning_Curve.png">
 </p>
 
