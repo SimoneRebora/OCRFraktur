@@ -14,4 +14,7 @@ Training OCRopus software on Fraktur documents (early XX century, Austria)
     transcriptions derived from Amann, Klaus, Karl Corino, and Walter Fanta. 2009. Robert Musil, Klagenfurter Ausgabe. Kommentierte digitale Edition sämtlicher Werke, Briefe und nachgelassener Schriften. Klagenfurt: Robert Musil-Institut der Universität Klagenfurt. DVD edition [typos/modifications in the trascriptions were corrected] 
 
 <b>Results:</b>
-![alt text](https://github.com/SimoneRebora/OCRFraktur/tree/master/Images/Learning_Curve.png)
+<p align="center">
+  <img src="https://github.com/SimoneRebora/OCRFraktur/tree/master/Images/Learning_Curve.png" width="350" title="Learning Curve">
+</p>
+
